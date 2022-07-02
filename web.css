@@ -1,0 +1,45 @@
+h1{
+	
+	text-align:center;
+	
+}
+#header1{
+	color:coral;
+	font-family:georgia;
+	font-style:italic
+	
+}
+#main{
+	
+	color:navy;
+	font-family:georgia;
+	font-size:20px;
+	font-style:lucida
+}
+#sec{
+	
+	color:maroon;
+	font-family:georgia;
+	font-size:20px;
+	font-style:lucida
+}
+#hlo{
+	
+	color:olive;
+	font-family:georgia;
+	font-size:20px;
+	font-style:lucida
+}
+.container{
+	margin:auto;
+	width:80%;
+	border:5px black dotted;
+	padding :30px;
+}
+form button{
+	background-color:black;
+	color:white;
+	width:15%;
+	padding-left:10px;
+	float:right;
+}

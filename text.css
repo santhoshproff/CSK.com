@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+}
+.c5{
+color: deeppink;
+
+}
+.c1{
+   color: chocolate;
+	font-family:georgia;
+	font-size:20px;
+	font-style:italic;
+}
+.c2{
+   color: chartreuse;
+     font-family:georgia;
+     font-size:20px;
+     font-style:italic;
+ }
+ .c3{
+      color: darkolivegreen;
+      font-family:georgia;
+      font-size:20px;
+      font-style:italic;
+  }
+  .c4{
+     color: darkcyan;
+      font-family:georgia;
+      font-size:20px;
+      font-style:italic;
+  }
+  .c6{
+      color: cornflowerblue;
+      font-family:georgia;
+      font-size:20px;
+      font-style:italic;
+  }
+  .container{
+    width: 80%;
+    margin: auto;
+    border: 5px black dotted;
+    padding:15px;
+  }
+  a button{
+	background-color:black;
+	color:white;
+	width:15%;
+	padding-left:10px;
+	float:right;
+}
