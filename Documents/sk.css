@@ -1,0 +1,39 @@
+h1{
+	text-align:center;
+}
+.c5{
+	
+	
+	color:teal;
+}
+.c1{
+	color:tomato;
+	font-family:georgia;
+	font-size:20px;
+	font-style:italic;
+}
+.c2{
+	color:violet;
+	font-family:georgia;
+	font-size:20px;
+	font-style:italic;
+}
+.c3{
+	color:orange;
+	font-family:georgia;
+	font-size:20px;
+	font-style:italic;
+}
+.container{
+	margin:auto;
+	width:80%;
+	padding :30px;
+	border:5px red solid;
+}
+form button{
+	background-color:black;
+	color:white;
+	width:15%;
+	padding-left:10px;
+	float:right;
+}
